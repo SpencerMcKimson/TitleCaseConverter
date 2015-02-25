@@ -1,0 +1,6 @@
+c:\users\kgbtest01\documents\visual studio 2013\Projects\TitleCaseConverter\TitleCaseConverter\bin\Debug\TitleCaseConverter.exe.config
+c:\users\kgbtest01\documents\visual studio 2013\Projects\TitleCaseConverter\TitleCaseConverter\obj\Debug\TitleCaseConverter.csprojResolveAssemblyReference.cache
+c:\users\kgbtest01\documents\visual studio 2013\Projects\TitleCaseConverter\TitleCaseConverter\bin\Debug\TitleCaseConverter.exe
+c:\users\kgbtest01\documents\visual studio 2013\Projects\TitleCaseConverter\TitleCaseConverter\bin\Debug\TitleCaseConverter.pdb
+c:\users\kgbtest01\documents\visual studio 2013\Projects\TitleCaseConverter\TitleCaseConverter\obj\Debug\TitleCaseConverter.exe
+c:\users\kgbtest01\documents\visual studio 2013\Projects\TitleCaseConverter\TitleCaseConverter\obj\Debug\TitleCaseConverter.pdb
